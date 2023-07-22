@@ -1,1 +1,2 @@
-print('Hello World! My first script!')
+print('Hello World!')
+print('My first script!')
